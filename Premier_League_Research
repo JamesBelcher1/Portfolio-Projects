@@ -1,1 +1,26 @@
+Analysis of the Premier League (1993–2024)
+
+This project analyses the trends and team performances in the Premier League from the 1993/1994 to 2023/2024 seasons using SQL. The analysis explores a multitude of different
+scenarios from historical analysis to Points and Goal trends, as well as a few other sections for analysis.
+
+## Table of Contents
+1. [Overview]
+2. [Dataset]
+3. [Analysis]
+    - Historical Analysis:
+      - [Top Performers](#top-performers)
+      - [League Winners](#league-winners)
+      - [Relegation Trends](#relegation-trends)
+
+    - Points and Goals Analysis
+          FILL IN 
+
+    - Competitiveness of the League
+        FILL IN
+
+    - ADD ONE MORE
+
+4. [Summary of Findings]
+
+
 
